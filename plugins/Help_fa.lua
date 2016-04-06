@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return 'QuickTeam Command List'.. [[
+  return 'kingbot Command List'.. [[
 ________________________________
 اخراج  [آیدی،کد،ریپلای] 
 شخص مورد نظر از گروه اخراج ميشود.
@@ -53,9 +53,9 @@ ________________________________
 
 ________________________________
 V 2.7 .fa
-channel @QuickGuardTEAM
-other bot  @QuickGuardw_bot
-for PM   @QuickGuardBOT]]
+channel ....
+other bot  ..
+for PM   ....]]
 
 end
 
