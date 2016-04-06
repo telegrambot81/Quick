@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return 'QuickTeam Command List'.. [[
+  return 'kingbot Command List'.. [[
 ________________________________
 --------------------------------
 _______In the name of Allah_______
@@ -76,9 +76,9 @@ ________________________________
 6.!share  شماره ربات سیو کنید و یک پیام پی وی ارسال کنید
 ________________________________
 V 2.7 en
-channel @QuickGuardTEAM
-other bot  @QuickGuardw_bot
-for PM   @QuickGuardBOT]]
+channel ....
+other bot  ....
+for PM   ....
 end
 
 return {
