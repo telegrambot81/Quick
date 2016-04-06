@@ -1,9 +1,9 @@
 local function run(msg)
-if msg.text == "ممنون" then
-	return "خواهش میکنم"
+if msg.text == "مهدی" then
+	return "با بابام چیکار داری؟"
 end
 if msg.text == "گروه چنده؟" then
-	return " az babam beprsid @amirquick"
+	return " az babam beprsid"
 end
 if msg.text == "چرا" then
 	return "چون چ چسبیده به را"
@@ -29,16 +29,16 @@ end
 if msg.text == "یه جک بگو؟" then
 	return "جککککککککک"
 end
-if msg.text == "zac" then
+if msg.text == "دیوث" then
+	return "با ننتی؟"
+end
+if msg.text == "blackking" then
 	return "Nagaeedim"
 end
-if msg.text == "Zac" then
-	return "Nagaeedim"
-end
-if msg.text == "bk" then
+if msg.text == "به کیرم" then
 	return "be kiram ke be kiret"
 end
-if msg.text == "quick" then
+if msg.text == "ربات" then
 	return "جانم"
 end
 if msg.text == "خوبی؟" then
@@ -47,14 +47,14 @@ end
 if msg.text == "تبلیغ" then
 	return "تبلیغ مساوی سوپر بن حتی شما دوست عزیز"
 end
-if msg.text == "کویک بکنش" then
+if msg.text == "ربات بکنش" then
 	return "ببن چاقال میکنمتا افتاد؟"
 end
 if msg.text == "سیکتیر" then
 	return "سیک اگه تیر داشت ننت الان جانباز بود"
 end
 if msg.text == "چنل" then
-	return "@QuickGuardTEAM  کانال کویک گارد "
+	return "@anti_spamb_bot"
 end
 if msg.text == "عجب" then
 	return "کیر رجب "
@@ -65,7 +65,7 @@ end
 if msg.text == "سلام" then
 	return "علیـک"
 end
-if msg.text == "امیر کویک کیه؟" then
+if msg.text == "مهدی خفاش کیه؟" then
 	return "بابامهههه"
 end
 if msg.text == "slm" then
@@ -83,11 +83,11 @@ end
 if msg.text == "خدافظ" then
 	return "Bye Bye"
 end
-if msg.text == "amir" then
-	return "چیکار داری بابامو؟"
+if msg.text == "چچچچچ" then
+	return "کیرخر"
 end
-if msg.text == "امیر" then
-	return "چیکار داری بابامو؟"
+if msg.text == "بلک کینگ" then
+	return "بلک سیک نگاییدم"
 end
 end
 
@@ -95,16 +95,16 @@ return {
 	description = "Chat With Robot Server", 
 	usage = "chat with robot",
 	patterns = {
-		"^ممنون$",
+		"^مهدی$",
 		"^گروه چنده؟$",
 		"^مرسی$",
 		"^تبلیغ$",
 		"^xy$",
-		"^[Zz]ac$",
+		"^blackking$",
 		"^سلام$",
-		"^quick$",
-		"^bk$",
-		"^کویک بکنش$",
+		"^ربات$",
+		"^به کیرم$",
+		"^ربات بکنش$",
      	"^کیر$",
      	"^کص نگو$",
      	"^سیکتیر$",	
@@ -116,8 +116,8 @@ return {
 		"^عجب$",
 		"^خوبی؟$",
 		"^[Ss]alam$",
-		"^amir",
-		"^امیر",
+		"^چچچچچ",
+		"^بلک کینگ",
 		"^خدافظ$",
 		"^بای$",
 		"^[Ss]lm$",
