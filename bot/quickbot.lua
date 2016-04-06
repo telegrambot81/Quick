@@ -273,21 +273,21 @@ function create_config( )
     "GET",
     "link"
     },
-    sudo_users = {112392827,tonumber(our_id)},--Sudo users
+    sudo_users = {120629055,106789762},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 Admins
-@Amirquick [Developer]
-@@heh1362  [Manager]
+Mehdi [Developer]
+  [Manager]
 Special thanks to
 awkward_potato
 Siyane
 topkecleon
 Vamptacus
 Our channels
-@QuickGuardTEAM [persian]
+ [persian]
 ]],
     help_text_realm = [[
 Realm Commands:
